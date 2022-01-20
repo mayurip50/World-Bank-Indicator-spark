@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/D:/course/Scala-Training-Mateiral/Project/DFOpenAirports/WorldBankIndicators/"), "worldbankindicators")...
+[debug] Done updating ProjectRef(uri("file:/D:/course/Scala-Training-Mateiral/Project/DFOpenAirports/WorldBankIndicators/"), "worldbankindicators")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
