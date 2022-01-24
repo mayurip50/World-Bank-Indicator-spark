@@ -5,27 +5,27 @@ World Bank has released its data dump regarding population, health, internet, GD
 data and solve the below mentioned problems.
 
 Format of Data
-•	Country Name
-•	Date
-•	"Transit: Railways, (million passenger-km)"
-•	"Transit: Passenger cars (per 1,000 people)"
-•	Business: Mobile phone subscribers
-•	Business: Internet users (per 100 people)
-•	"Health: Mortality
-•	under-5 (per 1,000 live births)"
-•	Health: Health expenditure per capita (current US$)
-•	"Health: Health expenditure, total (% GDP)"
-•	Population: Total (count)
-•	Population: Urban (count)
-•	"Population:: Birth rate, crude (per 1,000)"
-•	"Health: Life expectancy at birth, female (years)"
-•	"Health: Life expectancy at birth, male (years)"
-•	"Health: Life expectancy at birth, total (years)"
-•	Population: Ages 0-14 (% of total)
-•	Population: Ages 15-64 (% of total)
-•	Population: Ages 65+ (% of total)
-•	Finance: GDP (current US$)
-•	Finance: GDP per capita (current US$)
+1.	Country Name
+2.	Date
+3.	"Transit: Railways, (million passenger-km)"
+4.	"Transit: Passenger cars (per 1,000 people)"
+5.	Business: Mobile phone subscribers
+6.	Business: Internet users (per 100 people)
+7.	"Health: Mortality
+8.	under-5 (per 1,000 live births)"
+9.	Health: Health expenditure per capita (current US$)
+10.	"Health: Health expenditure, total (% GDP)"
+11.	Population: Total (count)
+12.	Population: Urban (count)
+13.	"Population:: Birth rate, crude (per 1,000)"
+14.	"Health: Life expectancy at birth, female (years)"
+15.	"Health: Life expectancy at birth, male (years)"
+16.	"Health: Life expectancy at birth, total (years)"
+17.	Population: Ages 0-14 (% of total)
+18.	Population: Ages 15-64 (% of total)
+19.	Population: Ages 65+ (% of total)
+20.	Finance: GDP (current US$)
+21.	Finance: GDP per capita (current US$)
 
 Sample Data
 Afghanistan,7/1/2000,0,,0,,151,11,8,"25,950,816","5,527,524",51,45,45,45,48,50,2,,
